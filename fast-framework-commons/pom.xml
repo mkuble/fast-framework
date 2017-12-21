@@ -4,6 +4,7 @@
 
 	<artifactId>fast-framework-commons</artifactId>
 	<packaging>jar</packaging>
+	<name>fast-framework-commons</name>
 
 	<parent>
 		<groupId>com.fast.framework</groupId>

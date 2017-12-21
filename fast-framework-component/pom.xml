@@ -4,7 +4,6 @@
 
 	<artifactId>fast-framework-component</artifactId>
 	<packaging>jar</packaging>
-
 	<name>fast-framework-component</name>
 
 	<parent>
