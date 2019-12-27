@@ -1,5 +1,10 @@
 package com.fast.framework.commons.constants;
 
+/**
+ * 数据状态枚举
+ * @author lion.chen
+ *
+ */
 public enum DataStatus {
 	
 	/** 停用 */
